@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnanwani/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnanwani/typescript/issues"
+  },
+  "homepage": "https://github.com/bnanwani/typescript#readme",
+  "dependencies": {
+    "@types/node": "^22.14.0",
+    "ts-node": "^10.9.2"
+  }
+}
